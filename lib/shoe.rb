@@ -12,4 +12,4 @@ class Shoe
   end
 end
 
-shoe.cobble = "new"
+Shoe.cobble = "new"
